@@ -193,6 +193,7 @@ footer a:hover {
 
 /* media queries */
 @media (min-width: 768px) {
+
   :root {
     ul li a ion-icon {
       width: 25px;
